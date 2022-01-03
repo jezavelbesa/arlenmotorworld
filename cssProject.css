@@ -207,8 +207,13 @@ font-size: 30px;
    margin-top:-185px;
    margin-left: 40%;
    margin-right: 40%;
-  
+}
 
+.foot-bottom p{ 
+   text-align: center;
+   margin-top:100px;
+   margin-left: 40%;
+   margin-right: 40%;
 }
 
 footer{
